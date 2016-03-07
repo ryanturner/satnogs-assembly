@@ -24,12 +24,27 @@ This assembly guide is for the Satnogs Rotator v3.0. While the photos are of the
         * 3x **2020 Inside Hidden Corner Bracket**
 * Assembly Steps:
     1. If using the **Corner Brace Support**, put a **bolt** and **T-Nut** one hole on each **support** and slide it through the extrusion; then, on three of the pieces, place a **bolt** and **t-nut** through the additional hole
-    2. If using the **Hidden Corner Bracket**, 
+    2. If using the **Hidden Corner Bracket**, place a **bracket** on three of the extrusions
+    3. Tighten the corner piece when it's flush against the bottom of the extrusion
 * Result:
     Five **102 mm extrusion** pieces with either **hidden corner bracket** pieces in two or **corner brace support** pieces in each, three having **screw**s and **t-nut**s in the bottom
     ![Yo](https://lh3.googleusercontent.com/nHIpkBrE9Nw6TQLlvIlM2_o4S7H3iQOfOh_cMQSPvcAmWPDfW8gDp7L4wCtSQ68QeTbL33AQl_RLEg=w1306-h979-no)
 
-#  Worm Mount
+#  Azimuth Picture Frame with Sides
+* Needed Parts:
+    * Assemblies from the previous two steps
+    * If using **corner brace support**, 2x **M5-8mm bolt**
+* Assembly Steps:
+    1. Along one side of the **picture frame**, slide two **azimuth side**s through one end and one through the other (do not tighten)
+    2. Either:
+        * Mount the two remaining **azmiuth side**s on the exposed t-nuts (do not tighten)
+        * Place the two remaining **extrusion**s on the top of the **hidden corner bracket**s (do not tighten)
+    3. Arrange the sides such that there are extrusions flush in the four corners of the **picture frame**, and one of the two longer sides has an extrusion floating in the middle; tighten the corners
+* Result:
+    The **Bottom Azimuth Picture Frame** with the **Azimuth Sides** mounted
+    ![Yo](https://lh3.googleusercontent.com/283py_L7YQVuIFTfC8bf2niZ7saBFxEXuiaomvdqvq2I6YUk3-RXVNaI4HpTjpsAOuMoTJ7doTmT9Q=w1290-h979-no)
+
+# Worm Mount
 * Needed Parts:
     * 1x 3D-Printed **worm_mount.stl**
     * 2x **M5-10mm bolt**
@@ -42,7 +57,7 @@ This assembly guide is for the Satnogs Rotator v3.0. While the photos are of the
     The **Azimuth Frame** with the **worm_mount** sitting on the short **extrusion**s, bearing side up on the two **upright extrusion**s that were inserted from the same end
     ![Yo](https://lh3.googleusercontent.com/Fe2pQVA9Aydou7M2EJGD1A073rMX7-PUW-wltd-wD67chmpzoyfFYQpSfqp17EfM_21kiFuUxHjaVg=w1306-h979-no)
 
-#  Worm Mount
+# Axis Side
 * Needed Parts:
     * 1x 3D-Printed **axis_side.stl**
     * 4x **M5-10mm bolt**
