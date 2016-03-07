@@ -1,5 +1,12 @@
 This assembly guide is for the Satnogs Rotator v3.0. While the photos are of the imperially sized version, the guide steps are applicable for both. 
 
+# US Sourcing of Difficult Parts Parts
+   * [158mm long GT2 6mm wide timing belt](http://shop.sdp-si.com/catalog/product/?id=A%206R51M079060)
+   * [202mm long GT2 6mm wide timing belt](http://shop.sdp-si.com/catalog/product/?id=A%206R51M101060)
+   * [6007ZZ Bearing](http://www.aliexpress.com/item/1Pcs-6007ZZ-6007-2RS-Bicycle-Ball-Bearing-Roller-Bearing-35-62-14mm-Steel-Bearing/32608093729.html)
+   * [625ZZ Bearing](http://www.aliexpress.com/item/10pcs-free-shipping-Miniature-deep-groove-ball-bearing-625ZZ-5-16-5-mm/32306788099.html)
+
+
 # Bottom Azimuth Picture Frame
 * Needed Parts:
     *  2x **2020 T-Slot Extrusion, 160 mm long**
